@@ -6,9 +6,10 @@
 /*   By: taehykim <taehykim@student.42seoul.kr      +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2021/09/13 14:33:31 by taehykim          #+#    #+#             */
-/*   Updated: 2021/09/13 14:33:56 by taehykim         ###   ########.fr       */
+/*   Updated: 2021/09/15 16:55:47 by taehykim         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
+#include <stdio.h>
 
 void	ft_ultimate_ft(int *********nbr)
 {
